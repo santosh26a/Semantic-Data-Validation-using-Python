@@ -20,7 +20,8 @@
            Python filename: dataType_validation.py
         
            Task: It validates data type for key contract variables. For example, 
-           city and country must be text data type; callForTendersPublicationDate must be date data type etc.
+           city and country must be text data type; callForTendersPublicationDate must be date data 
+           type etc.
 
         b)	Price
 
