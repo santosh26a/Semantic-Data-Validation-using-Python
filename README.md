@@ -1,5 +1,7 @@
 # Semantic-Data-Validation-using-Python
 
+# Semantic data validation is for validating data of public procurement contract variables. Basically, this code is checking inconsistancies in public procurement contract based on its properties. Properties such as data type, price, tender date, contract lot date etc. 
+
 # Data Validation Code Guide
 
 1. Data Validation Code Structure
