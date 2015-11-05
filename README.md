@@ -1,6 +1,7 @@
 # Semantic-Data-Validation-using-Python
-
-# Semantic data validation is for validating data of public procurement contract variables. Basically, this code is checking inconsistancies in public procurement contract based on its properties. Properties such as data type, price, tender date, contract lot date etc. 
+  Semantic data validation is for validating data of public procurement contract variables. Basically, this code is   
+  checking inconsistancies in public procurement contract based on its properties. Properties such as data type, 
+  price, tender date, contract lot date etc. 
 
 # Data Validation Code Guide
 
@@ -32,8 +33,8 @@
         
            Python filename: TenderDate_validation.py
            
-           Task: It validates date properties for each tender. For example, bidDeadlineDate must be later than 
-                 callForTendersPublicationDate; contractAwardNoticePublicationDate must be later than    
+           Task: It validates date properties for each tender. For example, bidDeadlineDate must be later 
+                 than callForTendersPublicationDate; contractAwardNoticePublicationDate must be later than    
                  callForTendersPublicationDate etc.
 
         d)	Lot Date
@@ -41,7 +42,8 @@
             Python filename: LotDate_validation.py
             
             Task: It validates date properties for each lot. For example, estimatedCompletionDate must 
-                  be later than estimatedStartDate; estimatedStartDate must be later than the awardDecisionDate etc.
+                  be later than estimatedStartDate; estimatedStartDate must be later than the 
+                  awardDecisionDate etc.
 
     ii)	Printing messages in data_validation2.log file 
     
